@@ -13,7 +13,7 @@ Tools: Flutter, Express, Node.js, Mongodb, Firebase.
 
 
 ```
-$ git clone https://github.com/manojkumar95/Meantoir-Flutter-App.git
+$ git clone https://github.com/Akash2515/Meantoir-Flutter-App.git
 
 ## Usage for backend server
 
